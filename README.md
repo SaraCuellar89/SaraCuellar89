@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Mi nombre es Sara Cuellar</h1>
-<img src="" />
+<img src="https://github.com/SaraCuellar89/SaraCuellar89/blob/main/banner.png" />
 <strong>Soy una programadora apasionada por el desarrollo web, con experiencia en Frontend y Backend.
 Me gusta combinar la lógica del servidor con el diseño del cliente para crear soluciones completas, eficientes y con atención al detalle.
 Mi objetivo es seguir aprendiendo.</strong>
