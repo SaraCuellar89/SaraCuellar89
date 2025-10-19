@@ -12,7 +12,7 @@ Mi objetivo es seguir aprendiendo.</strong>
   <li>Aprendiendo y explorando cosas nuevas siempre.</li>
 </ul>
 <br/>
-<h2>⚒️ Some of my projects</h2>
+<h2>⚒️ Algunos de mis proyectos</h2>
 <h3>🧟‍♀️ Cine Freak</h3>
 <li>Pagina para reservar peliculas: <a href="https://github.com/SaraCuellar89/Cine_Freak.git">CineFreak</a></li>
 
