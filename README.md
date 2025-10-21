@@ -20,7 +20,7 @@ Mi objetivo es seguir aprendiendo.</strong>
 <li>Pagina para alquilar bicicleas: <a href="https://github.com/SaraCuellar89/Front_SenaBike.git">SebaBike</a></li>
 <br/>
 <br/>
-<h2>🎯 Technologies & Skills</h2>
+<h2>🎯 Tecnologias y Habilidades</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
